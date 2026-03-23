@@ -75,3 +75,4 @@ The `-d out` flag places compiled `.class` files in a separate `out/` directory,
 
 ## UML Diagram
 
+<img width="2967" height="1887" alt="Untitled-2026-03-23-1632" src="https://github.com/user-attachments/assets/cd718175-88d6-4094-b649-a1fc4674e740" />
